@@ -1,1 +1,0 @@
-abstraction, model, creative, thinking as a architect
