@@ -1,2 +1,2 @@
-# think_in_archiecture
-abstraction, model, creative, thinking as a architect
+# think_in_system
+abstraction, model, creative, thinking in systems
